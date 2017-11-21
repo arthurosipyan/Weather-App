@@ -1,0 +1,23 @@
+body {
+  background-image: url(http://www.androidguys.com/wp-content/uploads/2015/12/Poly-Lakeside.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#box {
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  color: #F8914C;
+  background-color: #26203C;
+}
+
+img {
+  height: 50px;
+  width: 50px;
+}
+
+#btn {
+  background: #26203C;
+  color: #F8914C;
+}
